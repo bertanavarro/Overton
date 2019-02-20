@@ -1,0 +1,89 @@
+body{
+	font-family: Segoe, "Segoe UI";
+	color: #FFFFFF;
+	font-size: 14px;
+	background-color: black;	
+}
+
+header{
+	padding: 20px 0; 
+	
+}
+
+#hero{  
+	background-image: url( ../img/slider-3.jpg);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover; 
+	padding: 200px 0;
+	}
+
+#hero h1{
+	font-size: 80px;
+	font-weight: 700;
+}
+
+#hero p{
+	font-size: 20px;
+
+}
+
+.btn-rectangle{
+	background-color: transparent;
+	border: 1px solid #FFF;
+    color: #FFF;
+	border-radius: 0;
+	padding: 10px 30px;
+	text-transform: lowercase;
+}
+
+.btn-rectangle:hover{
+	background-color: #FFF;
+	color: #000000;
+	font-weight: 600;
+}
+
+#services{
+	background-color: #000000;
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0;
+	background-repeat: no-repeat;
+		
+}
+  
+#services img{
+	margin: 30px 0px;	
+}
+
+#services h3{
+	
+	
+}
+
+#scroll{
+	padding: 100px 0;
+}
+
+#scroll {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+#scroll .info-scroll{
+  text-align: center;
+	margin-bottom: 50px;
+}
+
+#scroll .info-scroll h3{
+	font-size: 16px;
+	margin-top: 20px;
+}
+
+#scroll .info-scroll h4{
+	margin-top: 25px;
+	font-size: 22px;
+		font-weight: 600;
+}
+
+
